@@ -38,6 +38,9 @@ class Settings:
     # Configuración de plantillas
     TEMPLATES_DIR: str = "templates"
     
+    # Configuración de temáticas previas para evitar repeticiones
+    MAX_PREVIOUS_TOPICS: int = 4  # Máximo de temáticas previas a considerar
+    
     def __init__(self):
         """
         Inicializa la configuración y valida que las variables críticas estén presentes.
