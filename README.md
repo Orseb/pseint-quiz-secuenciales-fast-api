@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-La API del Quiz de Python proporciona endpoints para gestionar quizzes interactivos de análisis de código Python. Utiliza FastAPI como framework web y Google Gemini para la generación de preguntas.
+La API del Quiz de PSeInt proporciona endpoints para gestionar quizzes interactivos de análisis de código PSeInt. Utiliza FastAPI como framework web y Google Gemini para la generación de preguntas.
 
 ## Configuración y Variables de Entorno
 
